@@ -1,0 +1,5 @@
+{
+  "name": "Rick and Morty style maker",
+  "description": "Transform your photos into the Rick and Morty universe using Gemini 2.5 Flash Image. Upload a photo and get a portal-ready cartoon version.",
+  "requestFramePermissions": []
+}
